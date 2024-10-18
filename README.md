@@ -13,3 +13,7 @@ Here are my learning goals:
 - Experience with data analylsis libraries, such as Pandas and NumPy.
 - Ability to perform data visualization using Matplotlib and Seaborn.
 - Knowledge of machine learning basics.
+
+## Vision
+
+In a year, I shall be ahead of the pack. Internships, money, money, and internships.
